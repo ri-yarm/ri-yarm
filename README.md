@@ -4,6 +4,9 @@
 * Стараюсь писать понятный код ✏️
 * Хочу быть ещё эффективней, чем был вчера😎
 
+<p align="center">
+  <img width="600" height="400" src="https://psv4.userapi.com/c236331/u167814895/docs/d41/82c8fd07622c/logo_Rinat.png?extra=1pR-tb-E8X40-yLNGMXtZMfZBcb8YAdTkYGL5vP1iMVU2_3dNIWpKqaBUUKpT5lT6hzd9KLgJVF93zf6cEyHhNCJH1YkpIZcb7OA17NcYixUZumS9S8LwGnTz1GIWq3OtZdQ-Ps2C71SM5i8dxeno9yj">
+</p>
 
 ### Технологии и инструменты
 
