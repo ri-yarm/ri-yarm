@@ -12,6 +12,17 @@
 
 ***
 
+### Контакты 
+
+<div id="badges">
+    <a href="https://t.me/ri_yarm">
+      <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="telegram" width="40" height="40"/>
+    </a>
+    <a href="mailto:learrinatyarmuhametov@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="E-mail" width="40" height="40"/>
+    </a>
+  </div>
+  
 ### Технологии и инструменты
 
 <div>
@@ -22,7 +33,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React Native" **alt="React Native" width="40" height="40"/>
 </div>
-
 
 ### Статистика : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ri-yarm&theme=dark&hide_border=true&border_radius=5&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
