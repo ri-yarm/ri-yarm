@@ -36,10 +36,11 @@
 </div>
 
 ### Статистика : 
+<!-- [![Codewars Badge](https://www.codewars.com/users/thogus/badges/large)](https://www.codewars.com/users/thogus) -->
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ri-yarm&theme=dark&hide_border=true&border_radius=5&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
