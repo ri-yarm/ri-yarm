@@ -53,13 +53,3 @@
 
 <!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ri-yarm&theme=dark&hide_border=true&border_radius=5&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
-##### Напишите мне
-
-<p>
-    <a href="https://t.me/ri_yarm">
-      <img src=https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor alt="telegram"/>
-    </a>
-    <a href="mailto:learrinatyarmuhametov@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" height='20' />
-    </a>
-  </p>
