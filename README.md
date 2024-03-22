@@ -14,10 +14,6 @@
 
 ***
 
-
-  
-### Технологии и инструменты
-
 <!-- <div>
   <img src="./icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="./icons/git-colored.svg" title="Git" **alt="Git" width="40" height="40"/>
