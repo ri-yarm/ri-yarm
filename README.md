@@ -7,8 +7,8 @@
 
 <div id="header" align="center">
   <picture>
-    <source srcset="./icons/logo_Rinat.png" media="(prefers-color-scheme: dark)">
-    <img src="./icons/logo_Rinat_white.png" width="200"/>
+    <source srcset="./icons/logo_Rinat_white.png" media="(prefers-color-scheme: dark)">
+    <img src="./icons/logo_Rinat.png" width="200"/>
   </picture>
 </div>
 
