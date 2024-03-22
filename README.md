@@ -6,7 +6,10 @@
 
 
 <div id="header" align="center">
-  <img src="./icons/logo_Rinat_white.png" width="200"/>
+  <picture>
+    <source srcset="./icons/logo_Rinat.png" media="(prefers-color-scheme: dark)">
+    <img src="./icons/logo_Rinat_white.png" width="200"/>
+  </picture>
 </div>
 
 ***
