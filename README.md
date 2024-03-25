@@ -14,16 +14,6 @@
 
 ***
 
-<!-- <div>
-  <img src="./icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="./icons/git-colored.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="./icons/react-original.svg" title="React Native" **alt="React Native" width="40" height="40"/>
-  <img src="./icons/webpack-original.svg" title="WebPack" alt="WebPack" width="40" height="40"/>
-  <img src="./icons/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-  <img src="./icons/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  <img src="./icons/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
-</div> -->
-
 <!-- <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
