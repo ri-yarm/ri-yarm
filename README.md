@@ -3,9 +3,6 @@
 <!-- * Учу react, express, mongodb 🧑‍🎓
 * Стараюсь писать понятный код ✏️ -->
 
-
-
-
 <div id="header" align="center">
   <picture>
     <source srcset="./icons/logo_Rinat_white.png" media="(prefers-color-scheme: dark)">
